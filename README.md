@@ -1,3 +1,5 @@
+# Milk Data Machine Learning Analysis
+
 Implemented and fine-tuned supervised machine learning models in Python, leveraging Scikit-Learn to develop a robust predictive model for assessing the quality of milk. Models: Decision Tree, Random Forest, Multinomial Logistic Regression, Linear Discriminant Analysis, and K Nearest Neighbours (KNN)
 
 Data Preprocessing:
